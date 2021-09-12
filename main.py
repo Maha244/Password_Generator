@@ -52,30 +52,3 @@ for char in password_list:
 
 print(f"Your password is: {password}")
 
-# def StringToList(s):
-#   # initialize an empty string
-#     list1 = []
-#   # traverse in the list
-#     for ele in s:
-#       list1 += ele
-#     # return string
-#     return list1
-
-
-# password_list = StringToList(random_password)
-# # print(password_list)
-
-# random.shuffle(password_list)
-# # print(password_list)
-
-# def listToString(l):
-#     # initialize an empty string
-#     str1 = ""
-#     # traverse in the string
-#     for ele in l:
-#         str1 += ele
-#     # return string
-#     return str1
-
-# password_string = listToString(password_list)
-# print("Your password is: " + password_string)
